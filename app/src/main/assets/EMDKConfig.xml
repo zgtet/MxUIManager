@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><!--This is an auto generated document. Changes to this document may cause incorrect behavior.--><wap-provisioningdoc>
+  <characteristic type="ProfileInfo">
+    <parm name="created_wizard_version" value="6.6.0"/>
+  </characteristic>
+  <characteristic type="Profile">
+    <parm name="ProfileName" value="UI Manager"/>
+    <parm name="ModifiedDate" value="2017-09-28 15:24:48"/>
+    <parm name="TargetSystemVersion" value="5.2"/>
+  <characteristic type="UiMgr" version="5.2">
+      <parm name="emdk_name" value="MyUIManager"/>
+      <parm name="BluetoothPairingPopupUsage" value="2"/>
+      <parm name="NotificationPullDown" value="2"/>
+      <parm name="NotificationSettings" value="2"/>
+    </characteristic>
+  </characteristic>
+</wap-provisioningdoc>
